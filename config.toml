@@ -1,6 +1,6 @@
-baseURL = "https://manuals.scp-079.org"
+baseURL = "https://sickmanwp.github.io/"
 languageCode = "zh"
-title = "使用手册"
+title = "維基病夫史"
 theme = "book"
 
 disablePathToLower = true
